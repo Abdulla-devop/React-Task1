@@ -19,7 +19,7 @@ function Welcome(){
         <h1 className="rupee">$0/month</h1>
         <hr className="line"></hr>
         <div className="text">
-        <h6>✔ Single user
+        <h6>✔ Single User
         <p>✔ 50GB Storage</p>
         <p>✔ Unlimited Public Projects</p>
         <p>✔ Community Access</p>
@@ -39,7 +39,7 @@ function Welcome(){
         <h1 className="rupee">$9/month</h1>
         <hr className="line"></hr>
         <div className="text">
-        <h6>✔ Single user
+        <h6>✔ 5 User
         <p>✔ 50GB Storage</p>
         <p>✔ Unlimited Public Projects</p>
         <p>✔ Community Access</p>
@@ -57,7 +57,7 @@ function Welcome(){
         <h1 className="rupee">$49/month</h1>
         <hr className="line"></hr>
         <div className="text">
-        <h6>✔ Single user
+        <h6>✔ Unlimited Users
         <p>✔ 50GB Storage</p>
         <p>✔ Unlimited Public Projects</p>
         <p>✔ Community Access</p>
